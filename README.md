@@ -42,7 +42,7 @@ Below is the default visualization canvas displaying the global ecosystem parame
 * **Replicate the December Playbook:** Reverse-engineer the precise bundles, marketing channels, and seasonal campaigns run during December. Re-deploy this exact commercial framework during mid-year promotional milestones (such as summer events or regional festivals) to spark consistent high-retention spikes.
 
 ---
-*Developed as part of a Bachelor of Science in Information Technology Portfolio.*
+*Developed by a Bachelor of Science in Information Technology for portfolio*
 
 ### Tags
 #DataAnalytics #PowerBI #PostgreSQL #SQL #CohortAnalysis #CustomerRetention #ETL #DataVisualization #BusinessIntelligence #EcommerceAnalytics
