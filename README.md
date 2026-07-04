@@ -34,7 +34,7 @@ Before creating any charts, I wrote custom SQL queries inside PostgreSQL to hand
 
 Below is the default visualization canvas displaying the global ecosystem parameters, tracking lines, and the complete customer lifetime lifecycle grid:
 
-![Finished Business Dashboard](Screenshot 2026-07-04 231419.jpg)
+![Finished Business Dashboard]https://github.com/mangofruit04/Ecommerce-Customer-Cohort-and-Retention-Analysis/blob/main/Screenshot%202026-07-04%20231419.png
 
 ## 💡 Strategic Recommendations
 
