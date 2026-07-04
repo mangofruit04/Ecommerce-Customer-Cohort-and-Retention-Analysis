@@ -1,0 +1,1 @@
+SELECT * FROM cohort_retention_view;
